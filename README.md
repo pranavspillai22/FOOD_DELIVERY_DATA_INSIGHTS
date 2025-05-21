@@ -3,6 +3,7 @@
 In this project, I utilized SQL to explore and interpret a food delivery dataset, aiming to extract meaningful insights that support strategic decision-making. The analysis targets common challenges faced by marketing and growth teams, with a focus on understanding how users interact with the platform, what drives engagement, and how promotional campaigns influence customer behavior.
 
 **SCENARIO**
+
 Noon launched Food in Dubai on 1st of January 2025 and your line manager has asked you to share key performance metrics to gauge the performance of the verticals. All the data of orders is being inserted into the table we create using SQL queries. Resolve the following questions using sql for business analysis.
 
 Q1. Find the top outlet by cuisine type without using limit and top function
